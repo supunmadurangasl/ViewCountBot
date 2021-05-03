@@ -39,5 +39,5 @@ async def countit(event):
     await x.forward_to(event.chat_id)
 
 print("Bot has started.")
-print("Do visit @slbotzone..")
+print("Do visit @BotzHub..")
 BotzHub.run_until_disconnected()
